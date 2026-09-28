@@ -51,4 +51,4 @@ ehthumbs.db
 # (Opsional) Uncomment baris di bawah jika file .ics hasil ekspor tidak ingin di-upload ke GitHub:
 *.ics
 output/
-*.xlxs
+*.xlsx
